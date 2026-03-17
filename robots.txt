@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dorjoos.github.io/ai-safety-research-2026/sitemap.xml
